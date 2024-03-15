@@ -53,7 +53,7 @@ const Navebar = () => {
       </ul>
 
       <div
-        className=" cursor-pointer pr-4 z-10  text-gray-400 md:hidden "
+        className=" cursor-pointer pr-4  z-20 text-gray-400 md:hidden "
         onClick={toggle}
       >
         {/* <FaBars size={30} /> */}
