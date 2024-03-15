@@ -10,7 +10,7 @@ const Home = () => {
       className="h-[100%] pt-[28%] md:pt-[15%] pb-[30%]  w-full  bg-gradient-to-b from-black via-black to-gray-800"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row pb-[10%]">
-        <div className="flex flex-col justify-center h-full">
+        <div className="flex flex-col justify-center h-full gap-10">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm A Half Stack Developer
           </h2>
