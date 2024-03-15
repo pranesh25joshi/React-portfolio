@@ -7,7 +7,7 @@ const About = () => {
         <div className="pb-8">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">About</p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur
           error veritatis qui voluptatum veniam quod ex laborum, tenetur totam
           adipisci, dolor vitae fuga optio et autem voluptatibus? Nihil
