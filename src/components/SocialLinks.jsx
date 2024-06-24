@@ -44,7 +44,7 @@ const SocialLinks = () => {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "mailto:pranesh25joshi@gmail.com",
+      href: "/assets/GoogleResume.pdf",
       style: "rounded-br-md",
       download: true,
     },
@@ -63,7 +63,7 @@ const SocialLinks = () => {
             }
           >
             <a
-              href={link.href}
+              href={link.href} download
               className="flex justify-between items-center w-full text-white"
               target="_blank" rel="noreferrer"
             >
