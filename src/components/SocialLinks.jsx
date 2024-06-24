@@ -63,9 +63,11 @@ const SocialLinks = () => {
             }
           >
             <a
-              href={link.href} download
+              href={link.href} 
+              download = "GoogleResume.pdf"
               className="flex justify-between items-center w-full text-white"
-              target="_blank" rel="noreferrer"
+              target="_blank" 
+              rel="noreferrer"
             >
               {link.child}
             </a>
