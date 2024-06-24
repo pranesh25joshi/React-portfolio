@@ -44,7 +44,7 @@ const SocialLinks = () => {
           <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "/assets/GoogleResume.pdf",
+      href: "https://drive.google.com/uc?export=download&id=1BCjLfbXiC5PGAuYrIEV-sIbnVzjLM0YS" ,
       style: "rounded-br-md",
       download: true,
     },
@@ -64,7 +64,7 @@ const SocialLinks = () => {
           >
             <a
               href={link.href} 
-              download = "GoogleResume.pdf"
+              download = "GoogleResume1.pdf"
               className="flex justify-between items-center w-full text-white"
               target="_blank" 
               rel="noreferrer"
